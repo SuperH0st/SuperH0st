@@ -1,10 +1,5 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
-
-## About Me
-<!-- ### **Welcome to My Page!** <img src="assets/flame.gif" style="position: relative;top:2.4px;" width="12" height="22">
-![border-seperator](assets/borderseparator.gif) -->
-
 ## 🌐 About Me
 I'm a **Full-Stack Developer & AI Researcher 🤖💻** passionate about building intelligent systems that combine **web technologies 🌐** with **Generative AI 🎨, Computer Vision 📷, and Audio Processing 🎧**.  
 
