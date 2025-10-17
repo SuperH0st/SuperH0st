@@ -20,6 +20,6 @@ I am a passionate and results-driven **Senior Mobile Developer** with **8+ years
 </tr>
 <tr>
 	<td><img src = "https://skillicons.dev/icons?i=html,css,react,angular,vue,tailwind,threejs" ></td>
-	<td><img src = "https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,express,django,flask&theme=dark" ></td>
+	<td><img src = "https://skillicons.dev/icons?i=nextjs,nestjs,express,django,fastapi,rails,spring&theme=dark" ></td>
 </tr>
 </table>
