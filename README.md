@@ -3,6 +3,12 @@
 ## 🌐 About Me
 I am a passionate and results-driven **Senior Mobile Developer** with **8+ years of experience** designing, building, and maintaining high-performance mobile applications. Skilled in both **native** and **cross-platform** ecosystems with a strong focus on clean architecture, scalability, and user experience.
 
+## ✅ Highlights
+- Delivered apps with high user adoption and performance
+- Led development across end-to-end product lifecycles
+- Improved stability and optimized app performance
+- Mentored developers and collaborated in agile teams
+
 ## 💻 Technologies
  
 <table>
