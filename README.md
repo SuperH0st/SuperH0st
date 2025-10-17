@@ -19,7 +19,7 @@ I am a passionate and results-driven **Senior Mobile Developer** with **8+ years
 	<td><strong>Backend Web Development</strong></td>
 </tr>
 <tr>
-	<td><img src = "https://skillicons.dev/icons?i=react,angular,vue,tailwind,threejs" ></td>
+	<td><img src = "https://skillicons.dev/icons?i=html,css,react,angular,vue,tailwind,threejs" ></td>
 	<td><img src = "https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,express,django,flask&theme=dark" ></td>
 </tr>
 </table>
