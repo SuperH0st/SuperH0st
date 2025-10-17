@@ -1,29 +1,7 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
 ## 🌐 About Me
-I'm a **Full-Stack Developer & AI Researcher 🤖💻** passionate about building intelligent systems that combine **web technologies 🌐** with **Generative AI 🎨, Computer Vision 📷, and Audio Processing 🎧**.  
-
-I enjoy:
-- Building **smart applications 🛠️** that solve real-world problems  
-- Experimenting with **AI models 🤯** and integrating them into full-stack apps  
-- Contributing to **Open Source 🌟** and collaborating with the community  
-
-### 🌱 Currently Learning
-- Fine-tuning **large language models (LLMs) 📝**  
-- Advanced **image & video generation 🎥✨** using diffusion models & GANs  
-- **Audio signal processing 🔊** and voice synthesis 🎤  
-- **Cloud-based AI deployment ☁️** with AWS, GCP & Docker/Kubernetes 🐳☸️  
-
-### 💬 What I Can Help With
-- Building **AI-powered full-stack apps ⚡**  
-- Deploying **generative AI models 🎨🤖** for images, text & audio  
-- Implementing **computer vision pipelines 📷🖼️** for detection & segmentation  
-- Designing **speech recognition & audio analysis tools 🎧🔍**  
-
-### ⚡ Fun Facts
-- Contributor to **Open Source projects 🌟**  
-- Avid learner of **emerging ML techniques 🔮** and generative AI trends 💡  
-- Enjoy solving **coding challenges 💻🧩** and exploring **innovative AI solutions 🚀**
+Passionate and results-driven **Senior Mobile Developer** with **8+ years of experience** designing, building, and maintaining high-performance mobile applications. Skilled in both **native** and **cross-platform** ecosystems with a strong focus on clean architecture, scalability, and user experience.
 
 ## 💻 Technologies
  
